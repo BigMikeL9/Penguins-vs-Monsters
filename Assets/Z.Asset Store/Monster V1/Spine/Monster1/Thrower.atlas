@@ -1,0 +1,83 @@
+
+Thrower.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 166, 106
+  size: 154, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+Hand_B
+  rotate: true
+  xy: 174, 42
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+Hand_F
+  rotate: true
+  xy: 174, 42
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+Leg_B
+  rotate: false
+  xy: 2, 2
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Leg_F
+  rotate: true
+  xy: 275, 42
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Projectile
+  rotate: false
+  xy: 2, 93
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+S_Take-Projectile
+  rotate: false
+  xy: 322, 218
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+S_Throwing
+  rotate: false
+  xy: 322, 180
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+S_Walk
+  rotate: false
+  xy: 322, 142
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+S_idleNoProjectile
+  rotate: false
+  xy: 322, 104
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+S_idleWithProjectile
+  rotate: false
+  xy: 2, 55
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1

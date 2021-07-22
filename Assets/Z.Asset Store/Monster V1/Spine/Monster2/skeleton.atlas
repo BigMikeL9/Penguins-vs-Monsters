@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 3
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 301, 58
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Hand_B
+  rotate: true
+  xy: 129, 2
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Hand_F
+  rotate: true
+  xy: 177, 2
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 301, 82
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+S_Attack
+  rotate: false
+  xy: 129, 90
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+S_Fly_Idle
+  rotate: false
+  xy: 129, 52
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1
+Tails
+  rotate: true
+  xy: 225, 13
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
